@@ -1,0 +1,390 @@
+NVBLQ Online Ongoing Training Session 3
+
+Environment Hazards
+Tides
+Waves
+Rip Currents
+Stop-Think-Act-Review
+Balancing Risk and Benefits
+Moving Towards a Casualty
+Heart Attack and Shock
+
+Environment Hazards
+
+	Weather
+		can vary from hour to hour
+		turns a safe beach into a dangerous beach
+		check local weather forecast
+		
+	Wind
+		may change depending on weather
+		onshore offshore
+		strength & direction - affect safety
+		wind affects waves
+	
+		offshore
+			blows from beach to sea
+			dangerous for inflatables
+			waves - clean glassy
+			advise people not to go in if strong offshore wind
+
+		onshore
+			from sea to land
+			break wave surface. choppy surf conditions
+			check direction of flags
+
+	Sea Breeze
+		warm sunny day, no wind - sea breeze may develop
+		land warms up, heats air above
+		air rises and cool air from see rushes in
+		daytime - onshore
+		
+		as land cools down - reverse happens
+		offshore
+	
+	Sea mist & fog
+		can see before it reaches shore
+		banks of mist/fog on horizon
+		warm air passes over cool air - gets mositure
+		reduce visibility
+		disorientated / lose bearings
+
+	Storms
+		can be seen moving towards beach
+		consider risk to users
+			red flags
+			advise users to leave
+		be vigilant at al times
+		electrical storms are expevially dangerous
+		lightning - major threat to people in water
+	
+		30-30 rule
+		flash to bang < 30secs - 10km away
+		risk of lightning strike - RED FLAG the beach
+
+		re-open - 30mins after last lightning strike 
+
+	Estimating wind strength
+		beaufort scale
+			strength/speed
+			13 point scale
+		estimates
+			wind speed in knots/mph/kph
+			wave height
+		
+force	desc		knots	mph	kmh 	hght(m)	sea			land
+0	Calm		<1	1	1	-	mirror			smoke vertical
+1	v light		1-3	1-3	1-5	0.1	ripples			drifts
+2	light brz	4-6	4-7	6-11	0.2	small wavelets		wind on face/leaves rustle
+3	gentle brz	7-10	8-12	12-19	0.6	creast break		leaves/flags move
+4	moderate brz	11-16	13-18	20-29	1.0	small some crests	paper blown/small branches
+5	fresh brz	17-21	19-24	30-39	2.0	moderate many crests	large branches swap
+6	strong brz	22-27	25-31	40-50	3.0	large white foam	small trees sway
+7	near gale	28-33	32-38	51-61	4.0	heaps up foam		large sway/difficult walk
+8	gale		32-40	39-46	52-74	5.5	med-high		small down
+							breaking crests
+							foam streaks		
+9	strong gale	41-47	47-54	75-87	7.0	high wwaves		structural damage
+							dense foam streaks
+10	storm (stm)	48-55	55-63	88-101	9.0	very high		trees uprooted
+							surface is white	more structural damage
+11	violent stm	56-63	64-73	102-117	11.5	exceptionally high	widespread damage
+							hides small boats
+12	hurricane	>64	>74	>119	>14	foan & spray		widespread damage
+							sea white
+					
+	Tides
+		movement of body of water
+		makes sea rise and fall
+		
+		flooding - tide in
+				high water
+		ebbing - tide out
+				low water
+
+	Hieght
+		gravity sun/moon
+		lunar month
+			2 spring tides
+			2 neap tides
+			every 7 days
+		between  neap -> spring
+			tide increase each day to reach spring
+			redcues to reach neap
+		Spring Tide
+			sun moon earth line up
+			high tides higher
+			low tises lower
+		Neap tide
+			sun moon at right angles
+			1st 3rd quarter
+			high tides lower
+			low tisdes higher
+		
+		Strong winds
+		low pressure - increase >1m
+
+	Tide Table
+		2 high and 2 low every 24 hours
+		varies - large harbour nearby
+	
+		each tide 
+			6hrs to flood
+			6hrs to ebb
+		 delay between flood/ebb is called slack water
+		means times change every day
+	Speed
+		floods slowly
+		speeds up
+		slows down at high tide
+		reverse for ebbing tide
+		
+		rule of 12ths
+			50% of tides move in 3rd & 4th hour
+
+		Hour 1 - inc 1 12th
+		Hour 2 - inc 2 12ths
+		Hour 3 - fastest 3 12ths / hour
+		HOur 4		
+		Hour 5 - slows incs 2 12ths
+		Hour 6 - inc 1 12th
+				slack water
+				reverse
+		How far up/down beach depends on slope
+		shallow - floods more quickly
+		deep - water doesnt come in as far
+	
+	Waves
+		what causes wave
+			wind
+			how long it blows / how hard it blows
+		as wve hits shallows they break
+		the bigger the wave period 
+			wave crest to wave crest
+			the easier it is to paddle /swim
+
+		still water line - level if sea was flat
+		crest - highest part above still water line
+		trough - lowest part below still water line	
+		height - (crest - trough)
+		length - crest -> crest (time)
+
+	Types of waves
+
+	how wave breaks - slope/shape of ground
+
+	Spilling
+		crest tumbles face of wave
+		safest
+		gently sloping beachs
+		good swimming/board riders
+	Plunging/Dumpers
+		break suddenly
+		powerful - dangerous
+		steep sloping beaches
+		crest faster than base
+		curls over
+		crashes violently ito trough
+
+		huge force throw swimmer to bottom
+		injury
+		knock off feet
+		backwash may drag out
+	Surging
+		may never break
+		very steep sloping beaches/rocks
+		dont slow down
+		dont get higher
+		strong bcakwash
+		knock off feet, carry out to deep water
+
+	Rip Currents
+		from shore out to sea
+		water builds on beach
+		estuary
+		feeder current
+			water flows along beach/feeder channels
+			finds easiest path bcak to sea
+		neck
+			flows away from beach
+			strongest current
+		head
+			past teh surf zone
+			current spreads out
+			into shoaling zone
+
+		are unpredictable/can sweep out to sea
+		casues panic
+		may suddenly be taken out to sea
+	
+		how to identify
+			look for debris/foam on surface
+			floating away from beach
+			sand/seaweed churning in water
+			discolour water
+			no waves in rip/break either side
+		How to escape
+			inform what to if they get caught in rip
+			stay calm / thonk clearly
+			swim out with teh current
+			swim out parrall with shore
+			swim to shore
+			float/tread water
+				when out of rip 
+				then swim to shore
+			if you canreach shore
+				float on back
+				face shore
+				signal for help - raise 1 arm
+
+	STOP THINK ACT REVIEW
+
+	incidents - usually on busy beaches
+	be prepared to take emerg action in water and on shore
+
+	take time to assess what is happening
+	review all options
+	lessons from rpevious rescues
+	
+	STOP
+		where is casualty
+		whats wriong
+		call for help LG/public
+		look for rescue aids
+	THINK
+		how will reach
+		what equip needed
+		what dangers
+		how will you rescue
+		where will you take them
+		what treatment
+		do you need mroe help
+	ACT
+		carry out rescue
+		medical treatment/first aid
+		get more help
+	REVIEW
+		record
+		how to stop hapening in future
+		what would u do differently
+			use of equip
+			first aid
+
+
+	RISK / BENEFITS PRIOR TO RESCUE
+			
+	YOU
+	YOUR TEAM
+	CASUALTY
+	CASUALTIES EQUIP
+
+	Balancing risk/benefit	 
+			
+	before risking your saftey
+		decide how sucessful rescue is likely to be
+			
+	think about hazrads / potential risks
+	
+	make plan to reduce risk for you/team/casualty
+
+	high risk - low benefit --> NO GO
+	risk high - benefit high --> adapt paln to reduce risk
+	risk low - benefit high --> rescue with caution
+
+	risk med - benefit med --> adapt plan - reduce rsik
+
+	Moving towars a casualty
+
+	conscious/distressed casualty sees u as someone who 
+	will provide help & floatation
+
+	take control
+	contact zone - highest risk
+		casualty can grab and hold on
+		stops them swimming
+		both could drown
+	stay 2m away until ready to put plan into action
+	shouldnt rescue without equip
+	always put barrier between yourself and casualty
+	
+Heart Attack
+	interruption of blood supply to heart
+	blocked blood vessel
+	heart muscle starved of oxygen
+
+	Recognition
+	
+	Symptoms
+		dizziness/nausea
+		crushing/tighening in chest
+		tingling/pain in left arm - jaw, other areas
+		indegestion
+		rapid/weak irregular pulse
+		impending doom
+		anxiety
+	Signs
+		pale grey skin
+		coughing
+		blue tingle skin/lips
+		sweaty skin
+		difficulty breathing
+		clutching chest
+		Sudden collapse
+	Treatment
+		Call 999/112
+		sit in comfortable position (half sitting)
+		loosen clothing neck/waist
+		ask about medical conditions/medication
+		reassure
+		remove any casue of streess/anxiety
+		monitor	
+		prepare for CPR if stops breathing
+
+		NOTE: 	slowly chewing 1 aspirin 300mg is benefitial
+			get tablet for them
+			check if allergic
+Shock
+	failure of circulation
+		leads to inadequate supply of blood to organs
+	
+	Causes
+		low blood volume - bleeding (hypovolemic shock)
+		loss of body fluids
+			vomiting/diarrheos/burms/dehydration
+		low cardiac output
+			not enough blood pumped round body
+			cardiogenic shock
+
+	recognition
+	symptoms
+		dizziness
+		confusion
+		disorientated
+		nauseous
+		thirsty
+	Signs
+		pale cold clammy skin
+		blue lips
+		weak rapid pulse
+		rapid shallow breathing
+		unconscious
+
+		body tries to compensate by diverting blood 
+		to vital organs
+
+	Treatment
+		assist to lie down
+		raise legs f possible/injuries
+		treat cause of the shock
+		reassure
+		keep warm
+		monitor
+		no food / drink
+		call 999/112
+
+	
+		
+
+	
+		
+	

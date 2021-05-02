@@ -1,0 +1,323 @@
+NPLQ Online Ongoing Training Session 10
+
+AED Survival Rates
+Chain of Survival
+Airway Management
+Guidelines for use of an AED
+Placement of AED Pads
+AED Flowchart
+Safety Considerations
+Using an AED in a Swimming Pool Environment
+Use of an AED with a Child or Infant
+AED Checks
+
+Since Generation 9 of NPLQ all LGs are required an assessment
+	basic use of AED
+	regardless of whether pool operator has an AED on site
+	check with employer if you need a stand alone AED cert
+	may need an additional assessment/training along with NPLQ cert
+	
+
+Automated External Defibrillators (AED)
+
+	majority of cardiac arrests are due, initially,
+		abnormal/fast/iregular beat of heart
+		tgis is called ventricular fibrillation (VF)
+		electrical defibrillation is well establish as only 
+		effective treatment
+
+	AED is device that deleivers controlled elcetrica shock to terminat VF
+	AED analyses heart rhythm to see if it is shockable
+	AED uses voice prompts to guide users
+	AED syitable for lay people/healthcare providers
+	AED majority are semi-automatic & prompt user to deleiver shock by 
+	pressing a button
+	
+	Fully automated AED will deliver shock with no interventionf from user
+	if it detects the heart rhythm is shockable
+
+	
+	x-axis - time take from collapse to shock being administered
+	y-axis - % chance of survival
+
+	The delay from collapse to first shock is most important determinant
+	of survival
+
+	prompt - survival as high as 75% 
+	survival chanes declines by 10% for each minute of delay
+	
+	CPR helps maintain a shockable rhythm
+	but is not the definitive treatment
+
+	Having AED on premises and a trained team helps keep time take to 
+	treat a casualty to a minimum
+
+	It is now cost effective to have an AED on site
+
+Chain Of Survival
+
+	Early Recognition
+	Early CPR
+	Early Defib		- gives cauualty the best chaicne of survival
+				- must be retrieved quickly
+	Post resuscitation care
+
+Terminology
+
+	Cardiac Arrest
+		heart stops pumping blood around body
+		blood flow to brain is reduced to zero
+		can cause siezures (may be confused with epliepsy)	
+		assess for normal breathing once seizure is over
+	Agonal Gasps
+		in first few minutes casualty may be taking 
+		infrequent, slow, noisy gasps (like snoring)
+		
+		An indication to start CPR immediately
+
+Airway Management
+	detecting that casualty is breathing normally will determine what 
+	course of action to take
+
+	effective airway management can increase chance of survival
+		effective rescue breaths
+	key steps are
+		head tilt/chin lift
+		look at chest
+		listen for breathing
+		feel for breathing
+		mist be for 10 secs
+		
+
+	CPR flow chart - Adult Child & Infant
+
+		summary of actions to take during primary survey
+		doesnt take every step required
+		  dosnt say...check for breathing using head tilt/chin lift
+		  step 2 - does say that an AED should be brought immediately
+
+	Unresponsive & not breathing
+	call 999 / ask for ambulance
+	if drowning child/infant - 5 rescue breaths
+	30 chest comps
+	2 rescue breaths
+	continue 30 cc - 2 rb
+	as soon as  AED arrives - switch on and folow instructions
+
+CPR in action
+
+	while waiting for AED may have to start CPR
+
+Locations of AEDs that public may be able to use in emergency
+
+	Airports
+	train stations
+	shopping centers
+	leisure centers
+	public libraries
+	telephone boxes
+	community centers
+	churches
+	
+
+Guideliones for using AED
+
+	if AED not immediately available - Start CPR immediately
+	continue until AED arrives
+
+	If AED available, use it without delay
+
+	if > 1 LG present
+		continue CPR while AED is switched on
+	if alone, Stop CPR and switch on AED
+	follow voice prompts/visual prompts
+	Attach pads to bare chest
+	No-one touches caualty while AED is analysing heart rhythm
+	
+Where to place pads on adult casualty
+	
+	May vary slightly
+	know what model at site recomends
+	
+	top of chest
+	lower opposite side of chest
+	
+	work as a team when placign pads to avoid interrupting CPR
+	LG1 continues CPR while LG2 sets up AED
+	LG2 should be assertive with instructions
+	
+	When shock is indicated
+		no-one touches the casualty
+		issue verbal commands
+		use arms/hands as visual aid to indicate LG1 should move away
+	push shiock button as directed
+	
+	A fully automated AED will deliver shick automatically
+
+	Once delivered - resume CPR with chest compessions as guided by
+	voice prompts from AED
+
+	LG should minimise interruption to chest compressions
+	
+	if no shock is indicated by AED, resume CPR with 30-2 ratio
+
+	COntinue as direcetd by voice/visual prompts
+
+	COntinue until
+		health professional tells you to stop
+		You become exhausted
+		casualty is definetly waking up/miving/opening eyes
+		& breathinh normally
+
+	
+Placement of AED pads
+
+	chest must suficiently exposed to place the electrode pads
+	chest hair may interfere
+		only shave if haior is excessive and be spend as little 
+		time as possible
+	Dont wait if no razor is available
+	
+	Most AED have pics of where to pplace pads
+	its not vital if positions are reversed
+	dont correct an error of placement as pads may not stick when moved
+	
+	if skin is wet - wipe skin dry before placing pads
+
+	PaceMaker
+		visible below left collor bone
+		if rarely on right place pads beside/below it
+
+	Medication Patches
+		remove to avoid sparking/burns during defib
+
+	AED FLowchart
+
+		unresponsive/not breathing
+		call 999/ambulance
+		
+			AED --- no ------> 30cc-2rb
+			 |
+			yes
+			 |----- turn on/follow visual/voie prompts
+
+Safety COnsiderations
+
+	Use Of Oxygen
+	
+	if casualty is getting oxygen via face mask
+		remove mask
+		place >= 1 meter away
+		reduces risk of spark igniting
+		but dont let this get in way of giving shock
+
+	dont touch casualy during analysis, charging, shock
+		movements can intefer with AeD detecting rhythm
+		call stand clear and check no-one is close by or touches casualt
+	
+	You can use AED on spinal injury, on or off rescue boaard
+	everyone must stand clear when instructed by the AED
+	this incldues the LG providing manual inline stabilisation of head
+
+Using AED in swimming pool (wet casualty)
+
+	as long as no-one is touching casualty when shock is delivered there is
+	no danger to rescuer/casualty, even if on a wet surface
+
+	if casusalty chest is wet, dry this before applying pads
+
+	AED has imerrision protection rating
+		shows if AED can be used ina wet environment
+		operator will check the AED is suitable for pool environment
+
+USe of AED with child/infant
+
+	Standard adult AED pads are suitable for use with children > 8 yrs
+
+	special pediatric pads reduce curent during defib
+	should be sued for infants / children
+
+	if no pediatric pads available - use the AED as it is
+
+	if casualty is so small that adult pads cannot be placed in 
+	standard chest positions without touching
+		one pad on the upper front of the chest
+		one pad on corresponding position on back
+	different models vary
+		LG needs training on using the model at their pool for
+		children/infants
+		and location of pediatric pads
+
+What should be stored with an AED
+
+	Small towel/flannel
+	razor
+	pocket mask
+	protective gloves
+	scissors
+	spare pads
+	pediatric pads
+	spare battery/batteries
+
+AED Checks
+
+	regular checks include
+		readiness for use -indicator/green flashing light
+
+	EQuipment present
+	
+	Small towel/flannel
+	razor
+	scissors
+	pocket mask
+	pads
+		
+Managing Regurgitation
+
+	may occuring during CPR/using AED
+
+	Stomach contents amy enter airways/lungs
+
+	can cause breathing problems/pneumonia
+
+	turn on to side to allow regurgitation to flow out of mouth
+		
+Recovery Position
+
+	prevents tingue falling back to block airways
+	reduce risk of regurgitated stomach contents blocking airways
+
+	unconscious casulty with airways clear and breathing normally
+
+	unless suffering suspected spinal injury
+
+	make sure breathing is normal and NOT return of agonal gasps
+
+	steps
+
+		knee by side
+		raise arm closest
+		opposite hand to side of face closest to you
+		raise opposite knee
+		keep hand by face
+		roll towards you
+		place knee to support body
+		tilt head down and forward
+
+CPR injury to spine
+
+	if injury to spine is suspected
+		a fall
+		blow to head
+		diving into shallow water
+
+	take care to align head/neck/chest
+	vital to have support/assistance from other team members
+
+	if casualty has been rescued to point of stability
+	and is not breathing normally, urgent removal is required using 
+	rescue board or horizontal spinal lift
+
+	if casualty breathjing stops/becomes abnormal
+	while secured on board - start CPR immediately, includes use of 
+	AED while casualty is on rescue board/PXB

@@ -1,0 +1,520 @@
+NVBLQ Online Ongoing Training Session 5
+
+Working as a Team
+Communication
+Rescue Board Skills
+Fractures
+Dislocation
+Sprains and Strains
+Cramp
+
+Working as a team
+
+	team
+		small number of people
+		mis of skills
+		committed to agreed purpose
+		goals & approach they hold themselves responsible for
+
+		everyone has own strengths
+
+		team lifting activites
+		launch rescue craft
+		support after traumatic events
+
+	conflict
+		normal
+		remember why team was formed
+			to prevent young people drowning on beach
+
+	Senior LG/Patrol captain
+		make sure team works well together
+		co-ord d-2-d servcie
+		manage response to emergencies
+
+	Management Team
+		service works well
+		LG supervisors/ LG managers
+
+	3 communication tools
+
+		radios - quick comms
+		piblic address system - megaphones 
+			reach larger audience
+		hand signals
+			no power / easy to use
+		whistles 
+			qucik /easy to use
+		air horns
+			loud / get attention qiickly
+		signage
+			lot of info in one place
+
+Communication For Life Guards
+	tool for effective comms
+		
+	Radios
+		effcetive/efficient d-2-d comms between LGs
+		VHF (very high freq)
+		comms with life boats/coast guards
+			helps with search & rescue
+		charge radio at end of each day
+	
+	VHF radios
+	hand-held/base units have other channels
+	
+	selecting channels
+		channel 
+			selection/scrolling arrow button
+		base unit 
+			channel knob
+			channel displayed on LCD
+		Squelch
+			sensitivity of receiver
+			turn/press control - roaring noise
+		Volume
+			adjust to confortable level
+		wait for roaring noise disappears
+	Limits
+		VHF travles in straight lines
+		range affected by height of anntena
+		if youc an see person
+			they should receive your signal
+	Dead SPots
+		loss of comms
+		cliffs/buildings/atmospheric conditions
+		be aware where dead spots are in zone
+		use following in dead spots
+			between LGs
+			between more powerful radios at
+				LG station/ LG vehicele
+		between lG facilities
+		inshore rescue boat/rescue craft
+	
+	Types of Beach
+		
+	Small beach / high cliffs
+		comms good on beach / out to sea /but not on cliffs
+	broad beach / high cliffs
+		comms good on beach / out to sea / on cliffs
+	steep sided coves
+		good comms out to sea & directly upwards onkly
+		creates dead spots, behind large rocks
+	
+	if you can see it - you can speak to it
+	
+Radio Procedure
+
+	English - International language for marine band VHF radio
+		
+	prosecution if misuse radio
+	
+	otehrs can hear comms
+	
+	procedural words - prowords
+		short words/phrases
+		brief
+		aviod confusion
+
+		correction
+			wrong info, going to correct myself
+		I say again
+			repeat myself
+		Out
+			im finished, not inviting response
+		Over
+			finished, invite response
+		Radio Check
+			How are you hearing me
+		Repeat
+			repeat what you said
+		Roger
+			i understand
+
+	CAll Signs
+
+		describe where person is
+		type of response they provide
+		each LG has call sign
+			about you / your position
+		may have individual number
+
+	Radio Checks
+
+	Do check to see if equoip is working
+	10 secs max
+	include call sign
+	
+	when setting up beach/start of sday
+	going on roving control
+	going afloat in IRB or RWC
+	return from break
+
+	Routine Calls
+
+	Listen before speaking
+	check yo seelcted right channel
+	10-15 cms from mouth / out of wind / shield Microphone
+	press transmit (push-to-talk) button
+	wait for a sec
+	give call sign twice / who you want to speak to
+	THis is "..give call sign twice on first call
+	release PTT btn
+	wait fro reply
+		no reply - repeat
+	continue conversation using correct procedures
+
+	LG radio check and Coast Guard
+
+	Amroth Beach LG	
+		Milford Haven CG, Milford Haven CG
+		this is Amroth Beach LG,Amroth Beach LG
+		Over	
+	Milform HAven CG
+		Amroth Beach LG,Amroth Beach LG
+		this is Milford Haven CG, Milford Haven CG
+		go ahead
+		over
+	Amroth Beach LG
+		Milford Haven CG
+		this is Amroth Beach LG
+		requestiong a radio check on channel zero
+		over
+	Milform HAven CG
+		Amroth Beach LG
+		this is Milford Haven CG
+		your radio check is loug and clear
+		over
+	Amroth Beach LG
+		Milford Haven CG
+		this is Amroth Beach LG
+		your radio check is loug and clear
+		out
+	
+	Voice techniquw
+		
+	clear / concise technique
+	
+	RSVPC
+		R - Rythm
+		S - Speed
+		V - Volume
+		P - Pitch
+		C - COntent
+
+		Avoid INterference
+			dont talk into wind
+	
+	Phonetic Alphabet / NUmbers
+
+	
+	A	ALPHA	J	JULIET		S	SIERRA
+	B	BRAVO	K	KILO		T	TANGO
+	C	CHARLIE	L	LIMA		U	UNIFORM
+	D	DELTA	M	MIKE		V	VICTOR
+	E	ECHO	N	NOVEMBER	W	WHISKEY
+	F	FOXTROT	O	OSCAR		X	CHARLIE
+	G	GOLF	P	PAPA		Y	YANKEE
+	H	HOTEL	Q	QUEBEC		Z	ZULU
+	I	INDIA	R	ROMEO
+
+
+	MIKE ALPHA ROMEA KILO
+	BRAVO OSCAR OSCAR MIKE ECHO ROMEO
+
+	3 6 WHISKEY INDIA LIMA LIMA OSCAR FOXTROT INDIA LIMA DELTA
+
+EMERGENCY CALLS
+
+	tell team / rescue services about emergency
+	IMMEDIATE
+
+	before entering water
+
+	Position	- where are you
+	Problem 	- whats happening
+	People		- how mnay involved/whats wrong with them
+	Progress 	- How are you about to respond
+
+	GOT IT WET
+
+	tell senior LG/ LS Super
+	turn off
+	rinse in fresh water
+	dont trun on
+	return to base station to exchange it
+
+	use purpose designed water proff bags
+
+PUBLIC ADDRESS SYSTEMS
+
+	get message to lots of people
+	hand held / fixed to vehicale/ :G station
+
+	do not over use
+
+	only when face to face not possible
+
+HAND SIGNALS
+
+	with / without flags
+
+	__ | pick up swimmers in direction indication
+	
+	| |	proced out to see
+
+	  |    return to shore
+	|  
+
+	<--- proceed to left
+	---> roceed to right
+
+	waving vertically - attention
+	
+	<---  ---> remain stationary
+
+	Assistance Required
+		one arm in air, waved bove head
+		backup ny rescue craft/other swimmers required
+	arms raised in cross above head
+		submerged casualty missing
+		immediate response
+	thumb down top of head
+		all clear / ok	
+		otherLGs observe and monitor situ
+
+	LG on a board
+
+	one arm outstretched above head
+		swimmer required
+		board paddler needs assistance from swimming LG
+	Both arms above head
+		Danger
+	One arm waved above head
+		Assistance rquired
+		backup by rescue craft / other swimmers immediately
+	both arms outstretched
+		all clear ok
+
+WHISTLES
+
+	when other comms not working/ not suitable
+
+	1 short - attract attention swimmers 
+	2 short - attract attention LG
+	3 short - tell LGs yoiu are taking emergency action
+
+AIR HORNS
+
+	USed same way as whistles
+	if person can hear whistle
+		wind/ beach noise
+
+PUBLIC SAFETY INFO
+
+	Signs - tell users about risks
+	
+	info to help users decide on safety
+	feel more confident
+
+	land owner/local council put up signs
+
+	least effective in risk management
+	LGs need detailed knowledge of location & content of signage
+
+RESCUE BOARDS
+
+	one of most important equip
+
+	place near waters edge
+		can use rip current
+	keep on side
+		wont stick to sand
+	easy to grab handle and carry to water
+	
+	Rail - side of board in water
+	Fin
+	Knee pads
+	Deck
+	Hand Straps
+
+	Curve from end to end - rocker
+
+	CARRYING THE BOARD
+
+	dont lose grip entering board
+
+	drag
+		hold strap closest to nose
+	underarm 
+		lift at center - hold bottom strap
+	On hip
+		deck up
+		side (rail) on hip
+		wind - away from body
+	
+	TRIM & BALANCE
+	adjust for your weight
+
+	in neutral spot (to back)
+		easy to paddle
+		nose up
+	
+	SHALLOW WATER
+	bunny hop, until water is deep enough
+	hands on rails
+	push down
+	hop
+
+	GETTING ONTO BOARD
+
+	Carry into waist depth
+	lay board flat
+	hands on rails
+	chest first
+	slide legs onto deck
+	adjust body pos to trim and balance board
+	
+	PADDLING LAYING DOWN
+
+	easiest technique
+	cup hands
+	reach forward
+	arms deep thru water
+	pull hard
+	lift out at hips
+	long slow deep strokes
+	lift chest/shoulders on each strioke
+	
+	GETTING ONTO YOUR KNEES
+	hands on rails
+	in line with hips
+	pull onto knees / on knee pads
+	adjust trim & balance
+	
+	PADDLING ON KNEES
+
+	faster / saves enrgy
+	difficult
+	more practice
+	
+	back horizontal
+	both arms reach forward
+	dig down pull back to hips
+	lift elbows
+	repeat
+
+FRACTURES
+
+	RNLI 256 casualties
+	
+	open fracture
+		exposed wound
+		leads to fgracture
+		ends of bone stick thru skin
+	closed
+		skin not boroken
+		bruise / sweeling / deformity
+	complicated
+		could be open/closed
+		injury to major blood vessels
+		brain / lungs / nerves /liver/joints
+		or other parts of body
+	Green Stick
+		commo in children
+		confused with sprain/strain
+	Signs & Symptoms
+		cracking heard
+		bleeding from open fracture
+		sweeling/deformity
+
+	Treatment
+		keep casualty in position found
+		only move if absolutely necessary
+		immobilise/supportto aviod further damage
+			upper limbs - hands/sling
+			lower - pads/blankets/clothing etc
+		cover exposed wounds with sterile dressing
+		dont put direct pressure on an exposed wound
+
+DISLOCATION
+	bone/joint is displaced
+	ligament / muscle damage
+	painful / gentle first aid
+
+	Signs & Symptoms
+		causyalt relucant to move joint
+		obvious deformity
+		nausea / shock
+	Treatment
+		make comfortable
+		support limb with padding / bandages
+		dont try to relocate
+		call 999/112
+		nothing to eat / drink
+
+	when rescued from water be very careful 
+	helping casualty onto beach
+
+SPRAINS & STRAINS
+
+	Sprains
+	joints - ligaments swrenched
+	
+	Signs & Symptoms
+		swelling
+		bruising
+		discolouration
+		pain / difficulty moving
+
+	Strains
+		musclues over stretched
+
+	Signs & Symptoms
+		limb - obvious swelling
+		cramp
+		localised intence pain
+
+	Treatment for sprain/strain
+	REST	
+		rest / make comfortable
+		dont allow bcak in water
+	ICE
+		ice pack - reduce swelling
+		clean fabric protect skin
+		< 10 minutes
+	COMFORTABLE / COMPRESSION
+		provide comfortable support
+	ELEVATION	
+		elevate affected area
+
+CRAMP
+	Sudden involuntray muscle contraction
+	dangerous in water
+	casued by cold/ sudden /intense activity
+	blow to muscle
+	loss of salt from sweating
+	dehydration
+
+	Signs & Symptoms
+
+	muscle - feels hard tight
+	cannt relax muscle
+	pain in miscle
+
+	Treatment
+
+	Support as appropriate
+	stretch carefully
+	gently straighten
+	massage area
+	rest
+
+
+
+
+	
+	
+	
+	
+		
